@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 300%;
+}
+
+form, input, button {
+    font-size: xx-large;
+}
+
+form {
+    padding: 30px;
+}
+
+#container {
+    padding: 30px;
+    font-style: italic;
+}
+
+#dane {
+    font-size: large;
+    font-weight: 800;
+}
